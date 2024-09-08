@@ -14,6 +14,8 @@ This page is a Form Validation page where users are required to fill all input f
 
 ## Screenshot of how it looks
 
+## GitHub Pages - https://ibeo-gh.github.io/Form-Validation/
+
 <img src="/screenshots/screenshot1.png" alt="image" />
     <img src="/screenshots/screenshot2.png" alt="image" />
     <img src="/screenshots/screenshot3.png" alt="image" />
